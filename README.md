@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flashmaxi
 - 👀 I’m interested in Software development, basketball and beer.
-- 🌱 I’m currently learning Python | Flask | Django
+- 🌱 I’m currently learning JS | React 
 - 💞️ I’m looking to collaborate on different projects to gain experience.
 - 📫 How to reach me https://flashmaxi.github.io/portfoliowebsite/#skills
 
