@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Flashmaxi
 - 👀 I’m interested in Software development, basketball and beer.
-- 🌱 I’m currently learning JS | React 
+- 🌱 I’m proficient in JS | React 
 - 💞️ I’m looking to collaborate on different projects to gain experience.
-- 📫 How to reach me https://flashmaxi.github.io/portfoliowebsite/#skills
+- 📫 How to reach me https://portfolio-site-three-rosy.vercel.app/
 
 <!---
 Flashmaxi/Flashmaxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
